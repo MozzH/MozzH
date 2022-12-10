@@ -5,5 +5,5 @@
 
 
 
-- 🌱 I’m currently learning the Flutter framework! I'm currently working on an instagram clone to practice Full stack native development (Flutter + Firebase)
+- 🌱 I’m currently learning the Flutter framework! I'm currently working on 'Petomo' A software that will connect people with vets & much more within the Republic of Cyprus!
 
