@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MozzH
 
 
-- 👀 I’m interested in Game Development, Full-stack Web Development, Native Development (Flutter, React Native), C++, Java, Android Development (Android Studio) and much more!
+- 👀 I’m interested in Game Development, Full-stack Web Development, Native Development (Flutter), C++, Java, Android Development (Android Studio) and much more!
 
 
 
